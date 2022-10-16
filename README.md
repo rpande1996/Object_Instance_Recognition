@@ -55,7 +55,7 @@ Nearest Neighbor Example:
 
 Distance Ratio Example:
 
-![ezgif com-gif-maker](input/distance_ratio.png)
+![ezgif com-gif-maker](output/distance_ratio.png)
 
 
 
